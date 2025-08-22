@@ -1,4 +1,4 @@
-#Sawtooth Lighthouse Studio存在模板注入漏洞
+#Sawtooth Lighthouse Studio存在模板注入漏洞工具
 import textwrap
 from multiprocessing.dummy import Pool
 import requests, argparse
