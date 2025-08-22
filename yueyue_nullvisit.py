@@ -1,4 +1,4 @@
-#汉王e脸通综合管理平台imgDownload.do接口存在任意文件读取
+#汉王e脸通综合管理平台imgDownload.do接口任意文件读取验证工具
 import textwrap
 from multiprocessing.dummy import Pool
 import requests, argparse
