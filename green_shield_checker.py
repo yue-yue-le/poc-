@@ -1,4 +1,4 @@
-#天锐绿盾审批系统findTenantPageSQL注入验证工具
+#天锐绿盾审批系统findTenantPageSQL注入验证
 import argparse
 import textwrap
 import time
