@@ -1,4 +1,4 @@
-#WordPress targetSms 远程命令执行漏洞(CVE-2025-3776)
+#WordPress targetSms 远程命令执行漏洞(CVE-2025-3776)验证工具
 import textwrap
 from multiprocessing.dummy import Pool
 import requests, argparse
