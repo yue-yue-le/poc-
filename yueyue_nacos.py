@@ -1,4 +1,4 @@
-#Nacos nodes接口存在敏感信息泄露漏洞
+#Nacos nodes接口存在敏感信息泄露漏洞工具
 import textwrap
 from multiprocessing.dummy import Pool
 import requests, argparse
