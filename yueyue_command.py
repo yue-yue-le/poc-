@@ -1,3 +1,4 @@
+#PagerMaid-Pyro后台管理系统 run_sh未授权命令执行验证工具
 import textwrap
 from multiprocessing.dummy import Pool
 import requests, argparse
