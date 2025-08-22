@@ -1,4 +1,4 @@
-#KEDACOM phoenix监控平台 upload_fcgi 任意文件上传漏洞
+#KEDACOM phoenix监控平台 upload_fcgi 任意文件上传漏洞工具
 import textwrap
 from multiprocessing.dummy import Pool
 import requests, argparse
